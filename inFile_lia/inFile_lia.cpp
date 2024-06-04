@@ -35,6 +35,7 @@ int main() {
     //menunjuk ke sebuah file
     infile.open("contohfile.txt");
    
+
 }
 
 
